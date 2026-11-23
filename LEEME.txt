@@ -1,0 +1,8 @@
+SITIO WEB: TECNOLOGÍA PARA EL FUTURO
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta tecnologia_para_el_futuro.
+3. Haz doble clic en index.html para ver el sitio en tu navegador.
+4. Para publicarlo, sube todos los archivos y la carpeta assets a un servicio de alojamiento web, por ejemplo GitHub Pages, Netlify o Google Sites (si lo reconstruyes allí).
+5. No subas únicamente index.html: conserva también las subpáginas y la carpeta assets.
+
+El sitio incluye páginas de Inicio, Inteligencia Artificial, IoT, Tecnologías emergentes, Futuro y sociedad y Proyecto CPSC. Las imágenes son ilustraciones originales SVG. Los enlaces de video abren búsquedas de recursos educativos en YouTube para que puedas elegir el video adecuado.
